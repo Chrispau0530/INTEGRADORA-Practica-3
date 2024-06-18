@@ -96,7 +96,52 @@ En caso de necesitar la funsión de celdas en columnas usaremos la proiedad "col
 Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funcion de las filas debemos utilizar el estandar de HTML, usando los tags: <th> para los encabezados, <tr> para las filas y para las celdas, y en ellos utilizar la propiedad de colspan y rowspan
 
 **EJEMPLO:**
+<table>
+<tr>
+<th>Encabezado 1 </th>
+<th>Encabezado 2</th>
+<th>Encabezado 3 </th>
+<th>Encabezado 4</th>
+</tr>
+<tr>
+<td>Fila 1 Celda 1</td>
+<td>Fila 1 Celda 2</td>
+<td>Fila 1 Celda 3</td>
+<td>Fila 1 Celda 4</td>
+</tr>
+<tr>
 
+  <td>Fila 2 Celda 1</td>
+  <td colspan=3 aling="center"> Fia 2 Celda 2 </td>
+</tr>
+<tr>
+<td rowspan=3> Fila 3 Celda 1</td>
+<td>Fila 3 Celda 2</td>
+<td>Fila 3 Celda 3</td>
+<td>Fila 3 Celda 4</td> 
+</tr>
+
+
+<tr>
+<td>Fila 4 Celda 2 </td>
+<td>Fila 4 Celda 3</td>
+<td>Fila 4 Celda 4</td>
+</tr>
+
+<tr>
+<td>Fila 5 Celda 2</td>
+<td>Fila 5 Celda 3</td>
+<td>Fila 5 Celda 4</td>
+</tr>
+<tr>
+<td>Fila 5 Celda 1</td>
+<td>Fila 5 Celda 2</td>
+ <td>Fila 5 Celda 3</td> 
+  <td>Fila 5 Celda 4</td>
+</tr>
+
+  
+</table>
 
 
 ### 9.Agregacion de imagenes
