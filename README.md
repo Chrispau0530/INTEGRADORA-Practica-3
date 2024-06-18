@@ -23,9 +23,9 @@ Y si deseamos incluir viñetas par enlistar pasos podemos utilizar el caracter -
 
 >- Decargar MySQL Server del Sitio Oficial 
 >- instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario **root**
->-Descargamos el archivo de respaldo de la base de datos (.sql)
->-restauramos la Base de Datos usando el comando mysql
-C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password < respaldo sql
+>- Descargamos el archivo de respaldo de la base de datos (.sql)
+>- restauramos la Base de Datos usando el comando mysql
+>- C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password  respaldo sql
 
 ### 6. Listas ordenadas y Desordenadas*
 
@@ -65,7 +65,7 @@ Mi buscardor favorito es:[www.google.com] / (https://www.google.com)
 Pero si deseas poner solo las ligas directas a un correo electronico podemos utilizar los simbolos \<\>
 
 **EJEMPLO:**
-Documetacion creada por: ***Carlos Daniel Garcia Pluma***
+Documetacion creada por: ***Christian Paul Rodriguez Perez***
 (<cg419370@gmail.com>)
 
 (<http://www.utxicotepec.edu.mx>)
