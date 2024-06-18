@@ -112,7 +112,7 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funci
 <tr>
 
   <td>Fila 2 Celda 1</td>
-  <td colspan=3 aling="center"> Fia 2 Celda 2 </td>
+  <td colspan=3 aling="center"> Fila 2 Celda 2 </td>
 </tr>
 <tr>
 <td rowspan=3> Fila 3 Celda 1</td>
