@@ -9,7 +9,7 @@ para alistar las carpetas y archivos en desde una terminal de sistemas operativo
 Despues oprimimos la tecla "Enter".
 Tambien podemos ingresar texto multilinea
 
-**Ejemplo:**
+**EJEMPLO:**
 
 >Aqui se ingresa un conjuto de instrucciones 
 >Para explicar al usuario, como instalar el 
@@ -17,7 +17,7 @@ Tambien podemos ingresar texto multilinea
 
 Y si deseamos incluir viñetas par enlistar pasos podemos utilizar el caracter - dentro del texto a documentar. 
 
-*EJEMPLO:*
+**EJEMPLO:**
 
 *PASOS PARA INSTALAR LA BASE DE DATOS*
 
@@ -25,7 +25,7 @@ Y si deseamos incluir viñetas par enlistar pasos podemos utilizar el caracter -
 >- instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario **root**
 >- Descargamos el archivo de respaldo de la base de datos (.sql)
 >- restauramos la Base de Datos usando el comando mysql
->- C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password  respaldo sql
+>> C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password  respaldo sql
 
 ### 6. Listas ordenadas y Desordenadas*
 
@@ -36,21 +36,21 @@ hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o
 
 Para poder crear tu primero repositorio en GitHub deveras;
   
-1.Contar con una cuenta GitHub
+1. Contar con una cuenta GitHub
    
-2.Dar clic en el botón *Nuevo Repositorio
+2 .Dar clic en el botón *Nuevo Repositorio
 
-3.Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b'
+3. Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b'
 
-4.Asignarle un nivel de privacidad entre 
+4 .Asignarle un nivel de privacidad entre 
 
 -**PUBLICO:** Si quieres que este disponible para todos los usuarios.
 
 -**PRIVADO:** Si deseas que solo a quien decidas puedan colaborar con tu proyecto.
 
-10.Definir si incluye un archivo de descripción llamado: README.md
+10. Definir si incluye un archivo de descripción llamado: README.md
 
-11.Definir si habrá exclusiones de archivo a través del archivo a través del archivo : gitignore
+11. Definir si habrá exclusiones de archivo a través del archivo a través del archivo : gitignore
 
 12. Guardar los cambios 
 
@@ -101,7 +101,7 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funci
 |-------------|-------------|-------------|------------|
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
 |Fila 2 Celda 1|              |Fila 2 Celda 2|              |
-|F              |Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+|              |Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
 |Fila 4 Celd 1 |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
 |               |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 6 Celda 1|Fila 6 Celda 2|Fila 6 Celda 3|Fila 6 Celda 4|
