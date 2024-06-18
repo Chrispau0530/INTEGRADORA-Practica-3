@@ -32,7 +32,7 @@ Y si deseamos incluir viñetas par enlistar pasos podemos utilizar el caracter -
 sí en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos
 hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o un guion en medio - si solo queremos una viñeta 
 
-*EJEMPLO:*
+**EJEMPLO:**
 
 Para poder crear tu primero repositorio en GitHub deveras;
   
@@ -97,14 +97,6 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funci
 
 **EJEMPLO:**
 
-|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
-|-------------|-------------|-------------|------------|
-|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
-|Fila 2 Celda 1|              |Fila 2 Celda 2|              |
-|              |Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
-|Fila 4 Celd 1 |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
-|               |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
-|Fila 6 Celda 1|Fila 6 Celda 2|Fila 6 Celda 3|Fila 6 Celda 4|
 
 
 ### 9.Agregacion de imagenes
